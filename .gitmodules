@@ -12,3 +12,8 @@
 	path = fel_infile
 	url = git@github.com:rocketgithub/fel_infile.git
 	branch = 13.0
+
+[submodule "fel_infile_nit"]
+	path = fel_infile_nit
+	url = git@github.com:rocketgithub/fel_infile_nit.git
+	branch = master
